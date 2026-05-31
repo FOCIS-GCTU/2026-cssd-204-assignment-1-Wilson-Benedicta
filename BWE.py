@@ -29,7 +29,6 @@ def main():
     print("...BBBBBBBBBB.....**...W...........W...**...EEEEEEEEEEEE.**")
     print()
     print()
-main()
 
 
 main()
